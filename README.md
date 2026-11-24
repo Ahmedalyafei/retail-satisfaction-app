@@ -4,7 +4,7 @@ This project predicts whether a customer will be unhappy with a purchase. I used
 
 I followed the CRISP-DM process, so the sections below go through each of its six steps.
 
-**Live app:** _add your Streamlit link here_
+**Live app:** (https://retail-satisfaction-ahmed.streamlit.app,)
 
 ---
 
